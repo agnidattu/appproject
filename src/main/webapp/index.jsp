@@ -4,7 +4,7 @@
 <body>
 <h1 style="background-color:DodgerBlue;">Hi All</h1>
 <h2 style="background-color:Tomato;">DevOps Methodology...!</h2>
-<h3 style="color:Violet;"> Welcome to Praveen DeveOps class </h3>
+<h3 style="color:Violet;"> Welcome to agnidattu devops class </h3>
 <p style="color:style="color:MediumSeaGreen;"> Lets learn, Do practice and get the job...!!!! </p>
 <marquee width="60%" direction="right" height="100px">
 Happy to reachout to me for more information.

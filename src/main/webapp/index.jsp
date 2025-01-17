@@ -9,7 +9,7 @@
 <marquee width="60%" direction="right" height="100px">
 Happy to reachout to me for more information.
 <h2>DevOps</h2>
-<a href="https://images.app.goo.gl/BmB6LdogGzgxZ7jHA" <target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Devops.svg/1200px-Devops.svg.png" width="300" height="225" alt="Devops" style="border:1px solid black;" /></a>
+<a href="https://images.app.goo.gl/BmB6LdogGzgxZ7jHA" <target="_blank"><img src="https://images.app.goo.gl/BmB6LdogGzgxZ7jHA" width="300" height="225" alt="Devops" style="border:1px solid black;" /></a>
 </body>
 </head>
 </html>

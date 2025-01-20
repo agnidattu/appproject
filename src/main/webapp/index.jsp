@@ -1,15 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<body>
-<h1 style="background-color:DodgerBlue;">Hi All</h1>
-<h2 style="background-color:Tomato;">DevOps Methodology...!</h2>
-<h3 style="color:Violet;"> Welcome to agnidattu devops class </h3>
-<p style="color:style="color:MediumSeaGreen;"> Lets learn, Do practice and get the job...!!!! </p>
-<marquee width="60%" direction="right" height="100px">
-Happy to reachout to me for more information.
-<h2>DevOps</h2>
-<a href="https://images.app.goo.gl/BmB6LdogGzgxZ7jHA" <target="_blank"><img src="https://images.app.goo.gl/BmB6LdogGzgxZ7jHA" width="300" height="225" alt="Devops" style="border:1px solid black;" /></a>
-</body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subhash Chandra Bose</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #000;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
 </head>
+<body>
+    <h1>Subhash Chandra Bose</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Subhas_Chandra_Bose_NR_–_photo_31-12-1942.png/800px-Subhas_Chandra_Bose_NR_–_photo_31-12-1942.png" alt="Subhash Chandra Bose">
+    <p>An inspirational leader and freedom fighter.</p>
+</body>
 </html>
